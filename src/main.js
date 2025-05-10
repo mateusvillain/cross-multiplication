@@ -25,10 +25,10 @@ document.querySelector("#app").innerHTML = `
             <div class="card card-elevation">
                 <div class="card-body">
                     <h2 class="headline">Proporções</h2>
-                    <p>[15:1] 100 equivale a 6,67</p>
-                    <p>[15:1] 150 equivale a 10</p>
-                    <p>[15:1] 200 equivale a 13,33</p>
-                    <p>[15:1] 250 equivale a 16,67</p>
+                    <p>[15:1] 100 equivalent to 6.67</p>
+                    <p>[15:1] 150 equivalent to 10</p>
+                    <p>[15:1] 200 equivalent to 13.33</p>
+                    <p>[15:1] 250 equivalent to 16.67</p>
                 </div>
             </div>
         </div>
